@@ -10,7 +10,7 @@ The module contains the following packages:
 
 <a name="links"></a> Quick links:
 
-* [Configuration](https://www.pipservices.org/recipies/configuration)
+* [Configuration](http://docs.pipservices.org/conceptual/configuration/component_configuration/)
 * [API Reference](https://pip-services3-nodex.github.io/pip-services3-rabbitmq-nodex/globals.html)
 * [Change Log](CHANGELOG.md)
 * [Get Help](http://docs.pipservices.org/get_help/)
