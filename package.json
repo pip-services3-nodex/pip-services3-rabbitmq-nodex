@@ -1,5 +1,5 @@
 {
-    "name": "pip-services3-rbbitmq-nodex",
+    "name": "pip-services3-rabbitmq-nodex",
     "version": "1.0.0",
     "author": "Conceptual Vision Consulting LLC",
     "description": "RabbitMQ messaging for Pip.Services in Node.js / ES2017",
